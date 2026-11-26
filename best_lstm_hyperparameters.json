@@ -1,0 +1,12 @@
+{
+    "best_hyperparameters": {
+        "lstm_units": 64,
+        "dropout_rate": 0.16385057315483265,
+        "learning_rate": 0.0020142690333538665,
+        "batch_size": 128
+    },
+    "maxlen": 80,
+    "embedding_dim": 100,
+    "vocab_size": 12665,
+    "best_validation_accuracy": 0.683845579624176
+}
