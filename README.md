@@ -720,3 +720,5 @@ The next planned experiment is BERT-based classification using the same dataset 
 
 ---
 
+"TF-IDF performed better because this dataset contains strong sentiment-related words and phrases that sparse TF-IDF features capture effectively, whereas Word2Vec + LSTM introduced more complexity without achieving better generalization."
+
